@@ -190,4 +190,4 @@ All cleaned and joined data were imported into **Power BI** for visual represent
 - Consider **discounting or bundling** lower-selling categories to optimize inventory.
 - Use **historical delivery trends** to predict and prepare for peak seasons.
 
-## Thank you 😄
+## 🙏 Thank you!
